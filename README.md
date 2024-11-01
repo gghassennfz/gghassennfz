@@ -1,4 +1,4 @@
-# Hi there 👋, Name is Ghassen Nefzi
+# Hi there 👋 My Name is Ghassen Nefzi
 ![](https://www.facebook.com/photo.php?fbid=689334576191279&set=pb.100053442278377.-2207520000&type=3)
 
 🔭 I’m a Full Stack Developer with a passion for creating engaging, responsive applications.<br>
